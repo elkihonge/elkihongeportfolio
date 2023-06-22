@@ -3,6 +3,18 @@ https://justpaste.it/atap5
 2.git config user.email "kingkihonge@gmail.com"
 3.git add .
 4.git commit -m "first commit"
-5. replace with yours - git remote add origin https://github.com/devtedke/devtedke.git
+5.git remote add origin https://github.com/elkihonge/elkihongeportfolio.git
 6.git push -u origin master
+
+
+
+<!--after deployment-->
+git add .
+git commit -m "changed header name in website" <!--this is to show where you have made the change-->
+git push -u origin master
+
+<!--2nd change-->
+git add .
+git commit -m "changed template name,rights and page title" <!--this is to show where you have made the change-->
+git push -u origin master
 
